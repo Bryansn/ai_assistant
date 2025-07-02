@@ -1,4 +1,9 @@
 # ai_assistant
-OOP AI Assistant for class project
- create a .env file 
- OPENAI_API_KEY = your-api-key-here
+
+An OOP-based AI Assistant created for a class project.
+
+## Setup Instructions
+
+1. **Clone this repository**:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/ai_assistant.git
