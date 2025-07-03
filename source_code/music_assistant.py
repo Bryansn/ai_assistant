@@ -12,7 +12,7 @@ class MusicAssistant(AIAssistant):
         self.last_request = None
 
     def greetUser(self) -> None:  # greet user
-        print("🎵 Hey! I'm your Music Assistant. Ready to set the vibe?")
+        print(" Hey! I'm your Music Assistant. Ready to set the vibe?")
 
     def handleRequest(
         self, request: Request
